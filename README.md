@@ -1,5 +1,6 @@
-# Netflix Business CaseStudy
-[https://github.com/AnureetKaurTiwana/Netflix-BusinessCaseStudy/blob/main/Netflix_Casestudy.ipynb]
+# Business Case Study
+
+[Netflix Business CaseStudy:](https://github.com/AnureetKaurTiwana/Netflix-BusinessCaseStudy/blob/main/Netflix_Casestudy.ipynb)
 
 ## Data Cleaning & Data Tidying:
 
